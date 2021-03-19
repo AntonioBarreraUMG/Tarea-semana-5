@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dibuja", "Dibuja\Dibuja.csproj", "{222A1E85-73B2-4866-B3FE-E59DA1EECBA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marque", "Marque\Marque.csproj", "{26A7619C-35E5-42B9-BA49-880E8E23E990}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Número aleatorio", "Número aleatorio\Número aleatorio.csproj", "{50FAEBF1-1ADD-4DFE-9966-D4AADDDD5B98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{222A1E85-73B2-4866-B3FE-E59DA1EECBA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{222A1E85-73B2-4866-B3FE-E59DA1EECBA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{222A1E85-73B2-4866-B3FE-E59DA1EECBA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{222A1E85-73B2-4866-B3FE-E59DA1EECBA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26A7619C-35E5-42B9-BA49-880E8E23E990}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26A7619C-35E5-42B9-BA49-880E8E23E990}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26A7619C-35E5-42B9-BA49-880E8E23E990}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26A7619C-35E5-42B9-BA49-880E8E23E990}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50FAEBF1-1ADD-4DFE-9966-D4AADDDD5B98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50FAEBF1-1ADD-4DFE-9966-D4AADDDD5B98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50FAEBF1-1ADD-4DFE-9966-D4AADDDD5B98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50FAEBF1-1ADD-4DFE-9966-D4AADDDD5B98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE40888D-84DD-4341-B82C-24867230A470}
+	EndGlobalSection
+EndGlobal
